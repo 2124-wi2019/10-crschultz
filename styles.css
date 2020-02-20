@@ -1,0 +1,17 @@
+/*Chris Schultz
+styles.css
+Info 2124 WW
+Thoendel
+02-19-2020*/
+
+.greenText {
+    color:green;
+    font-family:Arial;
+    size:2em;
+}/*end greenText class*/
+
+.orangeText {
+    color:orange;
+    font-family:Arial;
+    size:2em;
+}/*end greenText class*/
